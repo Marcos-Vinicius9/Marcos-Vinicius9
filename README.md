@@ -23,6 +23,6 @@
   <a href = "mailto:viniciusferreirag213@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
-  ![Snake animation](https://github.com/Marcos-Vinicius-9/Marcos-Vinicius-9/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Marcos-Vinicius9/Marcos-Vinicius9/blob/output/github-contribution-grid-snake.svg)
  
 </div>
